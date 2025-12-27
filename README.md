@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sanish Thapa Shrestha
 🔭 I’m currently working on creating my portfolio <br>🤝 I’m looking for help with web development and project coding<br>🌱 I’m currently learning everything I can<br>⚡ Fun fact: I am a Computer Engineering student with extensive hands-on experience gained through academic projects and practical work. While I have developed strong technical and problem-solving skills, I am still in the process of completing my engineering degree.
 
 
