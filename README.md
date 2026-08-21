@@ -2,7 +2,6 @@
 
 ## Header
 
-Hi, I'm **Sanish Thapa Shrestha**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
   <picture>
@@ -10,7 +9,6 @@ Hi, I'm **Sanish Thapa Shrestha**. This README shares what I'm building, the too
     <img src="https://www.gitskins.com/api/section/hero?username=endurance3000&theme=zen" alt="endurance3000 hero section" />
   </picture>
 </p>
-## About Me
 
 <p align="center">
   <picture>
@@ -18,7 +16,6 @@ Hi, I'm **Sanish Thapa Shrestha**. This README shares what I'm building, the too
     <img src="https://www.gitskins.com/api/section/about?username=endurance3000&theme=zen" alt="endurance3000 about section" />
   </picture>
 </p>
-## Skills
 
 <p align="center">
   <picture>
@@ -26,7 +23,6 @@ Hi, I'm **Sanish Thapa Shrestha**. This README shares what I'm building, the too
     <img src="https://www.gitskins.com/api/section/stack?username=endurance3000&theme=zen" alt="endurance3000 stack section" />
   </picture>
 </p>
-## GitHub Stats
 
 <p align="center">
   <picture>
@@ -34,7 +30,6 @@ Hi, I'm **Sanish Thapa Shrestha**. This README shares what I'm building, the too
     <img src="https://www.gitskins.com/api/section/stats?username=endurance3000&theme=zen" alt="endurance3000 stats section" />
   </picture>
 </p>
-## Projects
 
 <p align="center">
   <picture>
@@ -42,11 +37,8 @@ Hi, I'm **Sanish Thapa Shrestha**. This README shares what I'm building, the too
     <img src="https://www.gitskins.com/api/section/projects?username=endurance3000&theme=zen" alt="endurance3000 projects section" />
   </picture>
 </p>
-## Heatmap
 
-## Connect
 
-Website: sanishthapashrestha.com.np · LinkedIn: in/sanishthapashrestha · Email: sanishthapashrestha@gmail.com
 
 <p align="center">
   <picture>
