@@ -1,6 +1,3 @@
-# Endurance3000
-
-## Header
 
 
 <p align="center">
